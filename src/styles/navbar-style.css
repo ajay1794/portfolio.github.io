@@ -1,0 +1,36 @@
+.navbar{
+    background-color: rgb(28, 27, 27);
+    position: sticky;
+    top: 0;
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    height: 40px;
+    padding: 5px;
+    filter: invert(100);
+}
+.nav-links{
+    padding-right: 80px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.nav-link{
+    margin-right: 50px;
+    text-decoration: none;
+    font-size: 1.3em;
+    color: rgb(212, 212, 212);
+}
+
+.nav-link:hover{
+    text-decoration: underline rgb(82, 156, 183);
+    text-underline-offset: 8px;
+    text-decoration-thickness: 3px ;
+    transition: transform 0.25s ease-out;
+}
+
+.resume-link:hover{
+    text-decoration: underline rgb(255, 0, 0);
+    text-underline-offset: 8px;
+    text-decoration-thickness: 3px ;
+}

@@ -1,0 +1,24 @@
+.skills{
+    margin-top: 100px;
+}
+.skill-title{
+    font-size: 1.8em;
+    text-align: center;
+    margin-bottom: 1em;
+    margin-top: 2em;
+}
+.skills-head{
+    font-weight:800;
+    text-align: center;
+    font-size: 3em;
+    margin: 0;
+    padding: 0;
+}
+
+.skill-icon{
+    align-items: center;
+    justify-content: center;
+    width: 5em;
+    height: auto;
+    padding: 10px;
+}

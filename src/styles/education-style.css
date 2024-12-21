@@ -1,0 +1,19 @@
+.qualification, .school{
+    color: black;
+}
+.edu-head{
+    text-align: center;
+    font-weight:800;
+    font-size: 3em;
+    margin-top: 3em;
+    padding: 0;
+}
+.carousel{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+
+}
+.slide{
+    border: 10px solid rgb(36, 35, 35);
+}
